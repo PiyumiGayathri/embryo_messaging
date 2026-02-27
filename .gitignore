@@ -1,0 +1,20 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+
+# IDE
+.idea/
+.vscode/
+
+# Others
+*.log
+*.iml
