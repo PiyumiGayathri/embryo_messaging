@@ -11,9 +11,9 @@ A Flutter mobile application that allows users to configure a device profile and
 
 ## Screenshots
 
-<img width="1080" height="1920" alt="Screenshot_20260228_004340" src="https://github.com/user-attachments/assets/0cdbc484-5e58-4780-bf89-1349b61b0353" />
+<img width="1024" height="1280" alt="Screenshot_20260228_004340" src="https://github.com/user-attachments/assets/0cdbc484-5e58-4780-bf89-1349b61b0353" />
 
-<img width="1080" height="1920" alt="Screenshot_20260228_004240" src="https://github.com/user-attachments/assets/eadd5770-14c8-48a9-9edc-45d2ce1deef3" />
+<img width="1024" height="1280" alt="Screenshot_20260228_004240" src="https://github.com/user-attachments/assets/eadd5770-14c8-48a9-9edc-45d2ce1deef3" />
 
 
 ---
